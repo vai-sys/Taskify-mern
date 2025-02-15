@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### 🔹 1. Clone the Repository
 ```sh
 git clone https://github.com/vai-sys/Taskify-mern.git
-cd Taskify
+cd Taskify-mern
 ```
 
 ### 🔹 2. Build and Start the Containers
@@ -58,5 +58,8 @@ To stop and remove all data:
 docker compose down -v
 ```
 
+![Screenshot 2025-02-14 115726](https://github.com/user-attachments/assets/eee9572e-131d-4e7b-8d27-766685ad7f3d)
+
+![Screenshot 2025-02-14 115736](https://github.com/user-attachments/assets/d81d4b3e-e88a-4aae-8154-60f789434daa)![Screenshot 2025-02-14 115717](https://github.com/user-attachments/assets/3af58555-832b-468e-b825-4dbfc1c365fa)
 
 
