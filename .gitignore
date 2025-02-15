@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+logs
+*.log
+*.log.*
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Build Output
+/dist/
+/build/
+
+# Optional npm cache directory
+.npm/
+
+# Dependency directories
+node_modules/
+
+# IDE and Editor directories
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# React Native specific (if using React Native)
+.expo/
+
+# Next.js specific (if using Next.js)
+.next/
+out/
+
+# MongoDB local data (if using local database)
+.mongod.conf
+
+# Coverage folder for test output
+coverage/
+
+# Firebase configuration (if using Firebase)
+firebase-debug.log
